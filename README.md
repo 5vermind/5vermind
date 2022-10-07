@@ -1,5 +1,5 @@
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=5vermind)](https://github.com/anuraghazra/github-readme-stats)
+[![Use Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=5vermind&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats) <br>
 
 
 <!--
